@@ -1,0 +1,13 @@
+autopep8
+pylama
+pylint
+pytest
+flake8
+# pylint-django
+
+# pip install -r requirements-dev.txt
+
+#"python.linting.pylintArgs": [
+    #     "--load-plugins=pylint_django",
+    #     "--errors-only"
+    # ],
